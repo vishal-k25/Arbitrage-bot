@@ -1,7 +1,7 @@
 {
-  "name": "trading-bot",
-  "version": "0.3.0",
-  "description": "Steal My Cryptocurrency Trading Bot!",
+  "name": "arbitrage-bot",
+  "version": "0.1.0",
+  "description": "arbitrage bot for profitable trade across exchanges",
   "engines": {
     "node": "10.x"
   },
@@ -21,7 +21,8 @@
     "lodash": "^4.17.15",
     "moment": "^2.25.3",
     "moment-timezone": "^0.5.28",
-    "numeral": "^2.0.6"
+    "numeral": "^2.0.6",
+    "web3": "^1.8.1"
   },
   "devDependencies": {
     "request": "^2.81.0"
